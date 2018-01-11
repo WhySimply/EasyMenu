@@ -1,6 +1,6 @@
 # EasyMenu v1.0
 
-display titles on your site as you go.
+display titles (h2, h3) on your site as you go.
 
 ## Getting Started
 
