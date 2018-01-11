@@ -1,0 +1,53 @@
+ div.abs {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 220px;
+    top: 35px;
+    background-color: green;
+    cursor: pointer;
+  }
+  
+.Acmenu{
+	position:fixed;
+	 top:50px;
+	 width:250px;
+	 display:block;
+	 height:auto;
+	 padding:15px;
+	 margin:5px;
+	 margin-top:12px;
+	 background:white;
+	 border:1px solid lightgrey;
+	 color:grey;
+	 z-index:10;
+	 border-radius:5px;
+}
+.Acmenu p.titre{
+	text-align: center;
+	padding-bottom:10px;
+	border-bottom: 1px solid lightgrey;
+}
+.Acmenu p:hover{
+	cursor: pointer;
+	color:black;
+}
+
+.box_elmt_text{
+	display:inline-block;
+	width:85%;
+}
+.box_elmt_text_h3{
+	display:inline-block;
+	width:85%;
+	padding-left:10px;
+	font-size:14px;
+}
+
+.box_elmt_close{
+	display:inline-block;
+	width:10%;
+	padding:0;
+	margin:0;
+}
+ 
