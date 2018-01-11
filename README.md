@@ -16,10 +16,10 @@ https://code.jquery.com/jquery-3.2.1.min.js
 1. Copy / paste the images and css folders into your project.
 
 2. At the top of your html page add a div with like class "easymenu" (OR copy/paste this code)
-   ```html
-	<div class="easymenu">
-	  <p class="titre">EasyMenu v1.0</p>
-	</div>
+```html
+<div class="easymenu">
+   <p class="titre">EasyMenu v1.0</p>
+</div>
  ```
 3. Made the links between your page and the easymenu.js & easymenu.css files, like this: 
  ```html
