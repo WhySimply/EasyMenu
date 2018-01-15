@@ -1,12 +1,12 @@
 # EasyMenu v1.0
 
-display titles (h2, h3) on your site as you go.
+Show titles (h2, h3) on your site in a smart menu as you go.
 
 ## Getting Started
 
 This plugin was developed as part of my studies in Bac +3, it takes up the concept of the new system of google docs.
 
-## Presentation Vidéo 
+## Presentation Video 
 
 https://vimeo.com/251075009 /!\ IMPORTANT 
 
