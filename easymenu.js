@@ -1,8 +1,15 @@
 (function($) {
   
-  	// FONCTION PERMETTANT LE DEPLACEMENT DU MENU SUR L'ECRAN
+  	
     var dragging = false;
     var iX, iY;
+
+    // FONCTION POUR FERMER LE EASYMENU
+    $( ".close-easymenu" ).click(function() {
+       $(".easymenu").remove();
+    });
+
+	// FONCTION PERMETTANT LE DEPLACEMENT DU MENU SUR L'ECRAN
     $(".easymenu").mousedown(function(e) {
       dragging = true;
       iX = e.clientX - this.offsetLeft;
