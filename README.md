@@ -22,6 +22,7 @@ https://code.jquery.com/jquery-3.2.1.min.js
 2. At the top of your html page add a div with like class "easymenu" (OR copy/paste this code)
 ```html
 <div class="easymenu">
+  <div class="close-easymenu">X</div>
    <p class="titre">EasyMenu v1.0</p>
 </div>
  ```
