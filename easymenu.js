@@ -27,7 +27,12 @@
       }
     };
 	
-	var result = $('h2, h3');
+	$(document).mouseup(function(e) {
+		dragging = false;
+		e.cancelBubble = true;
+	})
+	
+	var result = $('h1, h2, h3');
 	var count = 0;
 	// PARCOURS LA PAGE EST RENSEIGNE LES ELEMENTS (H2 & H3)
 	result.each(function(index) {
