@@ -1,6 +1,6 @@
 # EasyMenu v1.0
 
-display titles (h2, h3) on your site as you go.
+Show titles (h2, h3) on your site in a smart menu as you go.
 
 ## Getting Started
 
